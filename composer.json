@@ -1,23 +1,21 @@
 {
-	    "name": "peter-han/bsp.manage",
-	        "description": "bsp service for manage interface",
-		    "type": "project",
-		        "keywords": [
-				        "bsp",
-					        "manage",
-						        "rpc",
-							        "interface"
-								    ],
-								        "license": "Apache-2.0",
-									    "authors": [
-										            {
-												                "name": "peter-han",
-														            "email": "creativefox0@gmail.com",
-															            }
-																        ],
-																	    "require": {
-																		            "php": ">=5.4.0",
-																			            "swoft": ">=2.0"
-																				        },
+    "name": "peter-han/bsp.manage",
+    "description": "bsp service for manage interface",
+    "type": "project",
+    "keywords": [
+        "bsp",
+        "manage",
+        "rpc",
+        "interface"
+    ],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "peter-han",
+            "email": "creativefox0@gmail.com",
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
 }
-
